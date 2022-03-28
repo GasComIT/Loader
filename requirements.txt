@@ -1,0 +1,5 @@
+dnspython
+gitpython
+motor
+pyrogram>=1.4.9
+python-dotenv
